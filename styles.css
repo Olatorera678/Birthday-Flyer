@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.flyer{
+    width: 200px;
+    background-color:black ;
+   color:white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.top-image img{
+    width: 100px;
+    height: 10px;
+    border-radius: 50%;
+    border: 3px solid gold;
+}
+
+.invite{
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+}
+
+h1{
+    color: gold;
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+.date-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.date-section h2{
+    color: gold;
+    font-size: 40px;
+}
+
+.address{
+    margin-top: 20px;
+    font-size: 14px;
+}
